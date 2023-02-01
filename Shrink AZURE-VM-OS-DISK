@@ -1,8 +1,8 @@
 # Variables
-$DiskID = ""# eg. "/subscriptions/203bdbf0-69bd-1a12-a894-a826cf0a34c8/resourcegroups/rg-server1-prod-1/providers/Microsoft.Compute/disks/Server1-Server1"
-$VMName = "VM-Server1"
+$DiskID = ""# eg. "/subscriptions/hidh33-894-a826cf0a34c8/resourcegroups/rg-prod test/providers/Microsoft.Compute/disks/DomainVM"
+$VMName = "ServerName"
 $DiskSizeGB = 00
-$AzSubscription = "Prod Subscription"
+$AzSubscription = "Production Test Subscription"
 
 # Script
 # Provide your Azure admin credentials
